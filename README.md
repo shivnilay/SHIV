@@ -39,7 +39,6 @@
 </div>
 
 
-
 <div align="right">
   <img height="200" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif"  />
 </div>
